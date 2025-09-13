@@ -40,9 +40,13 @@ Structure
 ----------
 
 ├─ README.md
+
 ├─ requirements.txt
+
 ├─ Video_Games_Analysis.ipynb
+
 ├─ Video_Games.csv
+
 ├─ License.txt
 
 
