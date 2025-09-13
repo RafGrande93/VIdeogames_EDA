@@ -1,6 +1,4 @@
 # Video Games: An Exploratory Data Analysis
-
-Video Games: An Exploratory Data Analysis
 ==============================
 
 Overview
